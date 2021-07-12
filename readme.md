@@ -21,3 +21,10 @@ Ex.:
 ## O que faltou fazer
 
 Pela curto tempo optei em não desenvolver testes de unidade. No entanto na chamada da função implementei um pseudo teste
+
+## Integrandes
+
+- Macarena Rodriguez
+- Marcelo dos Santos de Oliveira
+- Luciano Berchon
+- 
