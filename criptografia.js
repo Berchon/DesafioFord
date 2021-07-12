@@ -18,5 +18,5 @@ console.log(crypto(crypto(word, 1), -1));
 console.log(crypto(crypto(word, 1), -1) == word);
 
 // O médo de multiplicação não dá certo, pos há caracteres em duplicidade
-// 100 * 3 = 300 - 255 = 45
-// 15 * 3 = 45
+// ascii(100) * 3 = 300 - 255 = ascii(45)
+// ascii(15) * 3 = ascii(45)
