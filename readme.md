@@ -27,4 +27,3 @@ Pela curto tempo optei em não desenvolver testes de unidade. No entanto na cham
 - Macarena Rodriguez
 - Marcelo dos Santos de Oliveira
 - Luciano Berchon
-- 
